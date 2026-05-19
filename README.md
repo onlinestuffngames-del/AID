@@ -24,3 +24,7 @@ Proiectul propus vizează dezvoltarea unui sistem automatizat destinat speciali�
 •	 Integrarea sistemului AI: Am început prin a redacta un program de măsurare a ariei unei monede folosind camera și numărând pixelii.
 
 •	Realizarea circuitului electronic: Având cadrul acum asamblat, am realizat legăturile necesare pentru a asambla circuitul.
+
+# Primul prototip
+
+Primul prototip era cu mult inferior acestei versiuni. Pe scurt, acesta avea un cadru care era compus și din oțel iar, din aceasă cauză, era de două ori mai greu. Noul cadru este alcătuit în totalitate din aluminiu. Mai aveam o problemă majoră deoarece foloseam 3 drivere DM542 care erau mult prea avansate si mari pentru ce aveam nevoie și trebuiau puse intr-un colț al cadrului deoarece altundeva nu mai aveau loc și, din această cauză, o lovitură mai puternică ar fi rupt suportul driverelor. O alta schimbare esentiala este folosirea unui singur PSU în loc de două deoarece driverele noi nu consuma multă energie și nu au nevoie de o tensiune așa mare deci putem folosi o singură sursă de 12V.
